@@ -1,11 +1,8 @@
 ## The Movie Chain - Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/thenifemi/the-movie-chain-public/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###Last updated: March 30, 2022
 
-### Markdown
-Last updated: March 30, 2022
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the Privacy Policy Template.
 Interpretation and Definitions
